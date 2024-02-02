@@ -1,3 +1,4 @@
+# TaskBeats
 TaskBeats é um aplicativo para você ter controle das suas tarefas no dia a dia e tambem conta com a função de "News" para você ficar sabendo das principais noticias do dia.
 
 ![Screenshot_20240202_112749](https://github.com/pgpedrog/TaskBeats/assets/141691120/477e24e5-610b-48ac-b5e5-2f6fc52e3db4)
